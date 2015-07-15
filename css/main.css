@@ -1,0 +1,31 @@
+body {
+  background-color:#e9eaed;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+.post {
+  width: 320px;
+}
+.post img {
+  width: 32px;
+  height: 32px;
+  float: left;
+  margin: 0px 10px 0px 0px;
+}
+
+.post img.post {
+  width: 320px;
+  height: 240px;
+  background-size: cover;
+  background-position: center center;
+  margin: 10px 0px 10px 0px;
+}
+
+.post .timestamp {
+  color: #808080;
+  font-size:10px;
+}
